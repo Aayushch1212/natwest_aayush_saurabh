@@ -2,7 +2,7 @@ import * as vscode from 'vscode';
 import axios from 'axios';
 
 // Replace this with your OpenAI API key
-const OPENAI_API_KEY = 'sk-jyFVvpMM0O6ZlsmLetrB1uMD9um0hZeEAHBg6Kj2h8T3BlbkFJIimPZ_4Pc5ImeVkrdcGBzup70-Mmcy8hk5DTYnLt4A';
+const OPENAI_API_KEY = '';
 
 export function activate(context: vscode.ExtensionContext) {
     console.log('OpenAI Code Suggestion Extension is now active!');
