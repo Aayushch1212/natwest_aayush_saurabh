@@ -16,5 +16,5 @@ This VS Code plugin integrates with OpenAI's API to provide advanced coding assi
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-plugin-name.git
+   git clone https://github.com/aayushch1212/openaiplugin.git
    cd your-plugin-name
